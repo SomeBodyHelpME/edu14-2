@@ -11,7 +11,7 @@ spec:
   project: edu15
   
   source:
-    repoURL: https://github.com/shclub/edu14-2.git
+    repoURL: https://github.com/SomeBodyHelpME/edu14-2.git
     targetRevision: HEAD
     path: charts/frontend
   
